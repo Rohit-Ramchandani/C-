@@ -1,0 +1,9 @@
+Polymorphism means existence in multiple forms
+
+It is of two types:-
+1. Complile Time Polymorphism.
+2. Rum Time Polymorphism.
+
+1. Complile Time Polymorphism is of two Types :-
+1.1 Function Overloading
+1.2 Operator Overloading

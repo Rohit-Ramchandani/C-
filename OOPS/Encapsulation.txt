@@ -1,0 +1,12 @@
+Encapsulation - Wrapping up Data Members and Member Functions
+1. Data Members -> State.
+2. Member Functions -> Behavior.
+
+Full Encapsulation - All Data Members are private 
+
+class 
+{
+    private:
+    int num;       // We can access it using same class only
+    string label;
+};
